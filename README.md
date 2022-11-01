@@ -13,7 +13,7 @@ The project was tested using Python 3.8.  # CHECK IF CORRECT
 
 To recreate the corpus a virtual copy of the book "The Glannon Guide to Civil Procedure" (Forth Edition) written by Joseph W. Glannon is required.
 
-The corpus can aditionally be obtained by filling out the request form (<TODO LINK>) and contacting  Dr. Ivan Habernal (==ivan.habernal@tu-darmstadt.de==).
+The corpus can aditionally be obtained by filling out the request form (<TODO LINK>) and contacting  Dr. Ivan Habernal (ivan.habernal@tu-darmstadt.de).
 
 ### Terms of use
 We wish to be able to share the data set with the research community (“users”) under the following conditions:
