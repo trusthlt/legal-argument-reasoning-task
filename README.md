@@ -6,9 +6,10 @@ This repository provides code for creating the corpus, and training the evaluate
 ## Requirements
 The following command installs all necessary packages:
 
+~~~
 pip install -r requirements.txt
-The project was tested using Python 3.8.  # CHECK IF CORRECT
-
+The project was tested using Python 3.8.
+~~~ 
 ---
 
 To recreate the corpus a virtual copy of the book "The Glannon Guide to Civil Procedure" (Forth Edition) written by Joseph W. Glannon is required.
