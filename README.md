@@ -17,7 +17,7 @@ This repository provides the code for creating the corpus, and training the eval
 ```
 ## Obtaining the dataset
 
-The corpus can be obtained by filling out the [request form](/forms/Legal-Argument-Reasoning-Request-Form.docx)  and sending a PDF to Dr. Ivan Habernal ( ivan.habernal@tu-darmstadt.de ).
+The corpus can be obtained by filling out the [request form](/forms/Legal-Argument-Reasoning-Request-Form.docx?raw=true)  and sending a PDF to Dr. Ivan Habernal ( ivan.habernal@tu-darmstadt.de ).
 
 ### Terms of use
 We wish to be able to share the data set with the research community (“users”) under the following conditions:
