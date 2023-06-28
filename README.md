@@ -10,12 +10,15 @@ This repository provides the code for creating the corpus, and training the eval
   author    = {Bongard, Leonard and Held, Lena and Habernal, Ivan},
   booktitle = {Proceedings of the Natural Legal Language Processing
                Workshop 2022},
-  pages     = {(to appear)},
+  pages     = {194--207},
   year      = {2022},
-  address   = {Abu Dhabi, UAE}
+  address   = {Abu Dhabi, UAE},
+  publisher = {Association for Computational Linguistics}
 }
 ```
 ## Obtaining the dataset
+
+UPDATE June 2023: The task has been accepted as an official task for SemEval-2024. We will thus restrict the access to the test data for the period of SemEval.
 
 The corpus can be obtained by filling out the [request form](/forms/Legal-Argument-Reasoning-Request-Form.docx?raw=true)  and sending a PDF to Dr. Ivan Habernal ( ivan.habernal@tu-darmstadt.de ).
 
