@@ -35,7 +35,7 @@ The dataset must be deleted after finishing the experiments.
 The following command installs all necessary packages:
 
 ~~~
-pip install -r requirements.txt
+conda env create -f environment.yml                         
 The project was tested using Python 3.8.
 ~~~ 
 
