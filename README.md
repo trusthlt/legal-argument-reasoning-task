@@ -18,8 +18,6 @@ This repository provides the code for creating the corpus, and training the eval
 ```
 ## Obtaining the dataset
 
-UPDATE June 2023: The task has been accepted as an official task for SemEval-2024. We will thus restrict the access to the test data for the period of SemEval.
-
 The corpus can be obtained by filling out the [request form](/forms/Legal-Argument-Reasoning-Request-Form.docx?raw=true)  and sending a PDF to Dr. Ivan Habernal ( ivan.habernal@ruhr-uni-bochum.de ).
 
 ### Terms of use
