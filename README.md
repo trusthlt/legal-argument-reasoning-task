@@ -15,6 +15,19 @@ This repository provides the code for creating the corpus, and training the eval
   address   = {Abu Dhabi, UAE},
   publisher = {Association for Computational Linguistics}
 }
+
+@inproceedings{Held.Habernal.2024.SemEval,
+	title        = {{SemEval-2024 Task 5: Argument Reasoning in Civil Procedure}},
+	author       = {Held, Lena and Habernal, Ivan},
+	year         = {2024},
+	booktitle    = {Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)},
+	publisher    = {Association for Computational Linguistics},
+	address      = {Mexico City, Mexico},
+	pages        = {2027--2038},
+	url          = {https://aclanthology.org/2024.semeval-1.276},
+  doi          = {10.18653/v1/2024.semeval-1.276},
+}
+
 ```
 ## Obtaining the dataset
 
